@@ -1,5 +1,5 @@
 import java.util.*;
-public class Lib {
+public class Lib {//1234567890
   public static boolean isPrime(int n) {
      if(n<=1) return(false);
      if(n==2) return(true);
